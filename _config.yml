@@ -49,4 +49,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 title: atharva
-baseurl: '/atharva/' # name of the repository
+baseurl: '/atharva' # name of the repository
